@@ -22,3 +22,5 @@ console.log(person)
 
 // 6. Print the final "person" object.
 console.log("Final person object:", person);
+
+// You will get Output of the code in Assignment2.md file

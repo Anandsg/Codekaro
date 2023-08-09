@@ -21,3 +21,5 @@ console.log(cars)
 
 // 6. Print the final "cars" array.
 console.log("Final cars array:", cars);
+
+// You will get Output of the code in Assignment3.md file
