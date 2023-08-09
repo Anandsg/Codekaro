@@ -1,9 +1,6 @@
-# Codekaro
-Codekaro Live JavaScript bootcamp 🚀 by Ashish shukla  (Founder of Codekaro). This repository for Assignment &amp; Class Notes taken during Live Course  #javascript
-
 # Codekaro Live JavaScript Bootcamp 🚀
 
-Welcome to the Codekaro Live JavaScript Bootcamp repository! This is the hub for all things related to the exciting JavaScript bootcamp led by Ashish Shukla, the visionary Founder of Codekaro. Get ready to embark on an incredible coding journey!
+Welcome to the Codekaro Live JavaScript Bootcamp repository! This is the hub for all things related to the exciting JavaScript bootcamp led by Ashish Shukla, the visionary Founder of Codekaro. This repository for Assignment &amp; Class Notes taken during Live Course  #javascript Get ready to embark on an incredible coding journey!
 
 ## About the Bootcamp
 
@@ -40,7 +37,6 @@ For any inquiries or assistance, feel free to reach out:
 - **Instructor:** Ashish Shukla
 - **Website:** [Codekaro](https://www.codekaro.in)
 - **Email:** info@codekaro.in
-- **Twitter:** [@ashishshukla](https://twitter.com/ashishshukla)
 
 ## Let's Get Started!
 
