@@ -21,4 +21,4 @@ Practice adding, removing, and updating values in arrays.
 6. **Print Final Array:** Print the final "fruits" array after performing the above operations.
 
 ## Final output of Assignment 1 :
-![Alt text](![Alt text](<Screenshot 2023-08-09 at 9.18.34 AM.png>))
+![Alt text](<Screenshot 2023-08-09 at 9.18.34 AM.png>)

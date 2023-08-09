@@ -25,4 +25,18 @@ Practice adding, removing, and updating values in an array of objects.
 5. **Update Car Model:** Update the "model" property of the second car object in the array to "Accord".
 
 6. **Print Final Array:** Print the final "cars" array after performing the above operations.
-![Alt text](<Screenshot 2023-08-09 at 9.18.34 AM.png>)
+
+## Output of sub task 2
+![Alt text](<Screenshot 2023-08-09 at 11.01.32 AM.png>)
+
+## Output of sub task 2
+![Alt text](<Screenshot 2023-08-09 at 11.03.43 AM.png>)
+
+## Output of sub task 4
+![Alt text](<Screenshot 2023-08-09 at 11.04.28 AM.png>)
+
+## Output of sub task 5
+![Alt text](<Screenshot 2023-08-09 at 11.05.13 AM.png>)
+
+## Output of sub task 6
+![Alt text](<Screenshot 2023-08-09 at 11.05.49 AM.png>)

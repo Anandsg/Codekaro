@@ -22,3 +22,6 @@ Practice adding, removing, and updating values in objects.
 5. **Update the "city" Property:** Update the "city" property of the "person" object to "San Francisco".
 
 6. **Print Final Object:** Print the final "person" object after performing the above operations.
+
+## Final output of assignment 2 :
+![Alt text](<Screenshot 2023-08-09 at 9.55.24 AM.png>)
