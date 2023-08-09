@@ -20,8 +20,9 @@ console.log(fruits)
 // 6. Print the final "fruits" array.
 console.log("Final fruits array:", fruits);
 
+// Final output of the Assignment 1 :
 
-
+// ** Final fruits array: (3) ['banana', 'pear', 'grape'] **
 
 
 
