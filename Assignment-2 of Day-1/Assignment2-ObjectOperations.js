@@ -15,7 +15,6 @@ console.log(person)
 person.job = "Engineer";
 console.log(person)
 
-
 // 5. Update the "city" property of the "person" object to "San Francisco".
 person.city = "San Francisco";
 console.log(person)
